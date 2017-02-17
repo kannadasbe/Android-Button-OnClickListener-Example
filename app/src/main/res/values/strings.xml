@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Android setOnClickListener Example</string>
+    <string name="button_3_message">Button 3 Clicked</string>
+    <string name="button_1_message">Button 1 Clicked</string>
+    <string name="button_2_message">Button 2 Clicked</string>
+    <string name="button_1">Button 1</string>
+    <string name="button_2">Button 2</string>
+    <string name="button_3">Button 3</string>
+    <string name="www_crazygeeksblog_com">www.crazygeeksblog.com</string>
+</resources>
